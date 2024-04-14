@@ -1,4 +1,4 @@
-function openCity(event, recipe) {
+function changeRecipe(event, recipe) {
     var i, recipe, recipes;
   
     recipe = document.getElementsByClassName("recipe");
